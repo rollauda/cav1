@@ -10,6 +10,7 @@ published: false
 
 
 ## 3. introduction
+**NON, NE PAS FAIRE**
 Vous choisirez un court-métrage parmi les 5 catégories qui n'a pas été projeté entièrement en classe en vous le présenterez :
 - Titre, réalisateur, année
 - Forme de film : documentaire, fiction, animation, etc. ?
@@ -20,8 +21,11 @@ Vous choisirez un court-métrage parmi les 5 catégories qui n'a pas été proje
 
 ## 2. projet pitch
 En vue du projet final de cette année, chaque élève imaginera une projet de court-létrage qu'il présentera à la classe dans le but d'en faire un court-métrage.
-**Thème imposé : le portrait ou l'auto-portrait**
-Il peut s'agir d'une fiction, d'un documentaire, d'un docu-fiction, d'un film en images réelles ou d'animation, et tout autre choix (bande-annonce, mashup, fausse publicité, fan-fiction, etc.)
+
+**Thème imposé : le portrait ou l'auto-portrait.**
+
+Il peut s'agir d'une fiction, d'un documentaire, d'un docu-fiction, d'un film en images réelles ou d'animation, et tout autre choix (bande-annonce, mashup, fausse publicité, fan-fiction, etc.).
+
 Lors de la présentation de vos pitch, des groupes se formeront autour des projets préférés.
 
 Pour votre présentation à la classe, vous suivrez la structure suivante :
@@ -49,3 +53,16 @@ Bareme (/10) :
 - Composition de l'image : 2
 
 ## 5. Ecrire le synopsis du court-métrage (groupe)
+
+Exercice évalué /5 (note individuelle) : rédiger un synopsis de votre court-métrage.
+
+Barème /5:
+
+- 2 pts : logique de l'intrigue
+- 2 pts : clarté et précision du synopsis
+- 1 pt : grammaire et orthographe
+
+## Ecrire la note d'intention
+
+- Travail prépartoire en groupe à faire en classe : préparer le brouillon de la note d'intention qu'il faudra rendre et qui sera évaluée. Suivre la structure donnée dans la fiche n°7 du dossier "L'écriture d'un film".
+- Faire ensuite au propre la note d'intention et la rendre

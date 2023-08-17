@@ -8,4 +8,7 @@ published: true
 ---
 ## Concevoir son story-board
 
+→ Voir la fiche n°9 du dossier "l'écriture d'un film"
+
 `pj CRDP-storyboard.pdf`
+`PJ SB ALIEN`
