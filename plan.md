@@ -12,6 +12,7 @@
     - Axer sur le point de vue
     - plus d'extraits, ajouter plan séquence Scorsese, La féline, Spielberg camion, etc.
     - Première évaluation, en binôme ?
+          - docs et vidéos pour illustrer chaque élément d'analyse
 
 - Leçon 2 : Les studios
 
