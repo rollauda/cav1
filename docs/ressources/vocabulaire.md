@@ -8,4 +8,7 @@ nav_order: 1
 published: true
 ---
 ## Vocabulaire technique du cinéma et principaux métiers du cinéma
-{% pdf "../../assets/pdf/ressources/vocabulaire-cinema.pdf" width=100% height=700px no_link %}
+
+<br>
+
+{% pdf "../../assets/pdf/ressources/vocabulaire-cinema.pdf" width=80% height=700px no_link %}

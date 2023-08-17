@@ -8,4 +8,7 @@ nav_order: 1
 published: true
 ---
 ## Liste de logiciels de montage gratuits
-{% pdf "../../assets/pdf/ressources/logiciels-montage.pdf" width=100% height=700px no_link %}
+
+<br>
+
+{% pdf "../../assets/pdf/ressources/logiciels-montage.pdf" width=80% height=700px no_link %}

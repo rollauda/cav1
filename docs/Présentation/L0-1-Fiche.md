@@ -3,7 +3,7 @@ layout: default
 title: Fiche de présentation
 parent: Présentation de l'année
 nav_order: 1
-published: true
+published: false
 ---
 
 ## Fiche de présentation de l'année de Première Spécialité CAV
