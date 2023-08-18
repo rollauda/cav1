@@ -4,11 +4,21 @@ title: Le scénario
 parent: Projet final
 has_children: true
 nav_order: 4
-published: true
+published: false
 ---
-## Ecrire son scénario
 
-`pj codes scenario et 2 trucs`
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Sommaire
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## Ecrire son scénario
 
 Le scénario d'un film est aussi appelé "continuité dialoguée". 
 
@@ -18,7 +28,7 @@ La continuité dialoguée (appelée couramment "scénario") intègre les dialogu
 
 **→ Voir la fiche n°8 sur le scénario dans le dossier "l'écriture d'un film"**
 
----
+## Documents
 
 {% pdf "../../assets/pdf/projet/scenario/codes-scenario.pdf" width=86% height=650px no_link %}
 

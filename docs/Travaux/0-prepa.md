@@ -38,7 +38,7 @@ Pour votre présentation à la classe, vous suivrez la structure suivante :
 **a faire après le pitch des élèves**
 
 À partir de l'histoire imaginée en classe entière, faire une série de 5 photographies qui la mettent en scène.  
-Thème : Le temps  
+Thème : Le miroir  
 Consignes : 
 - utiliser au moins 3 valeurs de plan diférentes 
 - utiliser au moins 2 angles de prise de vue différents

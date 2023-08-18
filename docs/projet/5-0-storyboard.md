@@ -4,11 +4,10 @@ title: Le story-board
 parent: Projet final
 has_children: true
 nav_order: 5
-published: true
+published: false
 ---
 ## Concevoir son story-board
 
 → Voir la fiche n°9 du dossier "l'écriture d'un film"
 
-`pj CRDP-storyboard.pdf`
-`PJ SB ALIEN`
+{% pdf "../../assets/pdf/projet/storyboard/CRDP-storyboard.pdf" width=80% height=650px no_link %}

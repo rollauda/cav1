@@ -11,15 +11,32 @@ published: true
 
 (Extraits de Franck Haro, *Écrire un scénario pour le cinéma*)
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Sommaire
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ### 1. La caractérisation physique
 
 La difformité peut être une caractérisation essentielle. Elephant Man de David Lynch et Freaks de Tod Browning prennent tous deux pour personnages principaux des êtres difformes et considérés comme monstrueux. Dans les deux cas, cette laideur extérieure sert au scénariste à prouver que les vrais monstres sont ceux qui profitent de la misère de ces personnages. De façon plus poétique, La Belle et la Bête raconte aussi ce dilemme entre laideur extérieure et beauté intérieure. 
 
-`→ Voir l'extrait 1. : "La Belle et la Bête" (Jean Cocteau, 1946)`
+`→ Voir l'extrait 1. : "La Belle et la Bête" (Jean Cocteau, 1946)`  
+
+<iframe src="https://drive.google.com/file/d/1JISGcwxH7PqnLRAsTJP3l2WlMyaNYKH-/preview" width="480" height="360" allow="autoplay"></iframe>
 
 Les handicaps sont eux aussi de forts éléments de caractérisation. Que ce soit la cécité de Daredevil de Mark Steven Johnson, l’autisme de Raymond dans Rain Man de Barry Levinson, la paralysie de Christy Brown dans My Left Foot de Jim Sheridan, la tétraplégie de Larry Flint de Milos Forman, le corps de Kenny l’enfant-tronc dans le film éponyme de Claude Gagnon, ou le corps mutilé de Johnny dans Johnny s’en va-t’en guerre de Dalton Trumbo, le cinéma a beaucoup utilisé le handicap pour caractériser des personnages. Dans Miracle en Alabama d’Arthur Penn, le personnage principal, Annie Sullivan, doit s’occuper d’une fillette aveugle, sourde et muette. Or, elle est elle-même une éducatrice spécialisée presque complètement aveugle, tout comme l’est Fausto Console suite à une explosion dans Parfum de femme de Dino Risi.
 
 `→ Voir les trailers 2. et 3. : "Rain Man" (Barry Levinson, 1988) et "Parfum de femme" (Dino Risi, 1974)`
+
+<iframe src="https://drive.google.com/file/d/1JoQuZXPRcnGRNIeidq1Uat3j2zUgqDOQ/preview" width="480" height="360" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1KBAJMsgldy2ef_81X0yARPc7d_Vot3F-/preview" width="480" height="360" allow="autoplay"></iframe>
 
 ### 2. La caractérisation sociale et familiale 
 
@@ -28,9 +45,13 @@ sang : il deviendra pire que les gens qu’il critiquait au début.
 
 `→ Voir l'extrait 4. : "Godfather I" (Francis Ford Coppola, 1972)`
 
-De façon plus traditionnelle, le cinéaste Claude Chabrol use du même procédé de mise en place de ses personnages dans deux de ses films. Le Boucher débute par une scène de banquet, qui permet de présenter tous les personnages d’une petite ville de province comme il les affectionne tant. 
+<iframe src="https://drive.google.com/file/d/1L3TQzdlWU_z2bKqRRBXVIumNTxXWMY-P/preview" width="480" height="360" allow="autoplay"></iframe>
+
+De façon plus traditionnelle, le cinéaste Claude Chabrol use du même procédé de mise en place de ses personnages dans Le Boucher, qui débute par une scène de banquet. Cela permet de présenter tous les personnages d’une petite ville de province. 
 
 `→ Voir l'extrait 5. : "Le boucher" (Caude Chabrol, 1970)`
+
+<iframe src="https://drive.google.com/file/d/1Kaw45vWOnia1VLNp2BKIpKsPUYJ2AVgo/preview" width="480" height="360" allow="autoplay"></iframe>
                        
 ### 3. La caractérisation par l’action
 
@@ -38,10 +59,16 @@ Dans M.A.S.H., film choral de Robert Altman, un des personnages principaux est l
 
 `→ Voir l'extrait 6. : "M.A.S.H." (Robert Altman; 1970)`
 
+<iframe src="https://drive.google.com/file/d/1L40HE8w8M730IUzSMXlDZ-Vbta32Ml-B/preview" width="480" height="360" allow="autoplay"></iframe>
+
 Au début de The Party de Blake Edwards, un acteur indien est engagé comme figurant dans un film à grand spectacle. Mais il enchaîne les catastrophes, faisant perdre un temps fou à l’équipe, portant une montre à quartz dans une scène censée se dérouler au début du siècle... Pour gagner du temps, le réalisateur lui demande de sortir du plateau. Désœuvré, il se balade dans le décor quand il s’aperçoit que son lacet est défait. Il cherche autour de lui quelque chose pour s’appuyer et déclenche alors un détonateur qui fait exploser le décor principal du film. Cette scène est évidemment une scène de caractérisation, nous avons compris que cet homme est très maladroit. 
 
 `→ Voir l'extrait 7. : "The Party" (Blake Edwards, 1969)`
 
+<iframe src="https://drive.google.com/file/d/1KuOdQKV456TXMw_tG-Q0FHdJiHS34rr8/preview" width="480" height="360" allow="autoplay"></iframe>
+
 ### Synthèse
 
 `→ Voir l'extrait 8. : scène finale de "Scarface" (Brian De Palma, 1983) qui synthétise les 3 caractérisations.`
+
+<iframe src="https://drive.google.com/file/d/1Ina7t0cLmm2u8dm7bRKVEsPoFrv920cy/preview" width="480" height="360" allow="autoplay"></iframe>

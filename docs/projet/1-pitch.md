@@ -4,7 +4,7 @@ title: Le pitch
 parent: Projet final
 has_children: #true ou false
 nav_order: 1
-published: true
+published: false
 ---
 ## Faire le pitch de son projet
 
