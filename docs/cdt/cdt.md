@@ -1,11 +1,11 @@
 ---
-title: Cahiers de textes
+title: Cahier de textes
 layout: default
 nav_order: 17
 has_children: false
 published: true
 ---
-## Cahiers de texte Première Spécialité CAV 2023-2024
+## Cahier de texte Première Spécialité CAV 2023-2024
 
 | Semaine     | Contenu     | Travaux |
 | :------------------- | :-------------- | :-------- |
