@@ -16,7 +16,7 @@ published: true
 (cliquez sur les titres pour ouvrir la vidéo)
 
 {: .gris2-title }
->-[ **Le ballet mécanique (Fernand Léger, 1924)**](https://drive.google.com/file/d/1hSJ7_TflLzm_L1Hnws3T8cOn1ACVbHBx/view?usp=drive_link)  
+> -[ **Le ballet mécanique (Fernand Léger, 1924)**](https://drive.google.com/file/d/1hSJ7_TflLzm_L1Hnws3T8cOn1ACVbHBx/view?usp=drive_link)  
 >→ Fernand Léger est un peintre français qui peut être apparenté au cubisme. Le ballet mécanique, réalisé avec Dudley Murphy, est d'inspiration dadaïste (mouvement intellectuel, littéraire et artistique du début du XXe siècle qui remet en cause les conventions et contraintes artistiques).
 >
 >- [**Vormittagsspuk (Hans Richter, 1928)**](https://drive.google.com/file/d/1RJaT83BsKG09Kn-jXSvRhFMOpSL21gju/view?usp=drive_link){:target="_blank" }  

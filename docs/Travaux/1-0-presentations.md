@@ -25,5 +25,9 @@ has_toc: false
 
 ### **Liste des films :**  
 {% pdf "../../assets/pdf/travaux/parcours-cine.pdf" width=80% height=550px no_link %}
-### **Grille de correction :**  
+### **Grille de présentation de film et d'évaluation :**  
 {% pdf "../../assets/pdf/travaux/grille-presentation-film.pdf" width=80% height=550px no_link %}
+### **Tabelau d'analyse de séquence :**  
+{% pdf "../../assets/pdf/travaux/tableau-analyse-sequence.pdf" width=80% height=550px no_link %}
+
+
