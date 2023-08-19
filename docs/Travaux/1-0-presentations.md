@@ -20,7 +20,8 @@ has_toc: false
 {:toc}
 </details>
 
-Vous présenterez à l'oral à tour de rôle un film de votre choix dans une liste imposée et en analyserez un extrait. Ci-dessous la liste des films et la grille de correction.
+{: .highlight }
+> Vous présenterez à l'oral à tour de rôle un film de votre choix dans une liste imposée et en analyserez un extrait. Ci-dessous la liste des films et la grille de correction.
 
 ### **Liste des films :**  
 {% pdf "../../assets/pdf/travaux/parcours-cine.pdf" width=80% height=550px no_link %}

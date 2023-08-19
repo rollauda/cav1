@@ -7,29 +7,48 @@ nav_order: 3
 published: true
 ---
 ## Courts-métrages d'animation
-On appelle film d'animation un film dans lequel un sujet ou un objet inanimé est doué de mouvement par des artifices techniques. Il utilise comme technique la prise de vue image par image qui permet d'insuffler la vie à tout objet ou matière inanimés. 
 
-[Lien vers les fichiers vidéo](https://drive.google.com/drive/folders/1GBUR4-DBRZIa2Ygq1_JVAjh3RmcoDEo5?usp=drive_link){:target="_blank" }
+{: .highlight }
+>On appelle film d'animation un film dans lequel un sujet ou un objet inanimé est doué de mouvement par des artifices techniques. Il utilise comme technique la prise de vue image par image qui permet d'insuffler la vie à tout objet ou matière inanimés.  
+>
+>Dans l'histoire du film d'animation, plusieurs techniques ont été utilisées.  
 
-Dans l'histoire du film d'animation, plusieurs techniques ont été utilisées.  
-En voici quelques exemples en format court classés par domaine technique :
-- **Animation sans caméra (effets visuels obtenus en modifiant une pelicule de film)** : Color Box (Len Lye, 1935),  Blinkity Blank (Norman McLaren, 1955)
+### En voici quelques exemples en format court classés par domaine technique :
+(cliquez sur les titres pour ouvrir la vidéo)
 
-- **Dessin animé (enregistrement image par image de dessins)** : Pauvre Pierrot (Emile Reynaud, 1892), Fantasmagorie (Emile Cohl, 1908), Vincent, (Tim Burton, 1982), Au bout du monde (Konstantin Bronzit, 1999)
+{: .gris2-title }
+>- **Animation sans caméra (effets visuels obtenus en modifiant une pelicule de film)** :  
+>>  - [Color Box (Len Lye, 1935)](https://drive.google.com/file/d/1nNoznMO9z8vP8cwPpAjjwEVsmCultEoX/view?usp=drive_link){:target="_blank" }  
+>>  - [Blinkity Blank (Norman McLaren, 1955)](https://drive.google.com/file/d/1jWxtcOI_FtnwO7vrOhPrL-y-2WhmZgtl/view?usp=drive_link){:target="_blank" }
 
-- **Stop Motion (ou "Animation en volume" : enregistrement image par image d'objets filmés, figurines, marionnettes, pâte à modeler, acteurs, etc.)**
+{: .gris2-title }
+>- **Dessin animé (enregistrement image par image de dessins)** : 
+>> - [Pauvre Pierrot (Emile Reynaud, 1892)](https://drive.google.com/file/d/1c42HTRJNY29QqyAqKht2h8lx75Ds2IMe/view?usp=drive_link){:target="_blank" }
+>> - [Fantasmagorie (Emile Cohl, 1908)](https://drive.google.com/file/d/12rzpmpXoHM4FVfFYCmNFoOhuIS8Gjrc-/view?usp=drive_link){:target="_blank" }
+>> - [Vincent, (Tim Burton, 1982)](https://drive.google.com/file/d/18o0X1j59HB_x_Ibco94E7bO3pavKiTcH/view?usp=drive_link){:target="_blank" }
+>> - [Au bout du monde (Konstantin Bronzit, 1999)](https://drive.google.com/file/d/1ATKZ1eOLZ8B7EHLHxgvl7g9qoQkT-0Wc/view?usp=drive_link){:target="_blank" }
+
+{: .gris2-title }
+>- **Stop Motion (ou "Animation en volume" : enregistrement image par image d'objets filmés, figurines, marionnettes, pâte à modeler, acteurs, etc.)**
    - **Marionnettes** : 
-     - Ruka (The Hand) (Jiri Trnka, 1965)
+     - [Ruka (The Hand) (Jiri Trnka, 1965)](https://drive.google.com/file/d/1AsUiq4knZIG3_It5_-KSQGIXz1Y2drMP/view?usp=drive_link){:target="_blank" }
    - **Pâte à modeler** : 
-      - Barbe Bleue (Jean Painlevé, 1936), 
-      - Dimensions Of Dialogue (Jan Svankmajer, 1982), 
-      - Wallace et Gromit, Un sacré pétrin (Nick Park,  studio Aardman Animations, 2008)
-   - **Stop motion en papier découpé (ou Cut-Out : enregistrement image par image de personnages découpés dans du papier ou carton et animés par des jointures)** : 
-      - Le Hérisson dans le Brouillard (René Laloux, 1975), 
-      - Les Trois Inventeurs (Michel Ocelot, 1980)
-   - **Hybride (utilisant différents supports)** : 
-      - Harpya (Raoul Servais, 1979), 
-      - Food (Jan Svankmajer, 1992), 
-      - When the day breaks (Amanda Forbis et Wendy Tilby, 1999)
-   - **Animation 3D (animation par ordinateur)** : 
-      - Le joueur d'échecs (Jan Pinkava, studios Pixar, 1997)
+      - [Barbe Bleue (Jean Painlevé, 1936)](https://drive.google.com/file/d/1xvHEeCfswVBYNtNmoFsMaJVtIEFh4uun/view?usp=drive_link){:target="_blank" } 
+      - [Dimensions Of Dialogue (Jan Svankmajer, 1982)](https://drive.google.com/file/d/1syxRPXSxJo5VXMI8yyZmak5AKsQA16uP/view?usp=drive_link){:target="_blank" } 
+      - [Wallace et Gromit, Un sacré pétrin (Nick Park,  studio Aardman Animations, 2008)](https://drive.google.com/file/d/1iZ4dfDsymaakm0jCEEOZWffQ8oEkeRSH/view?usp=drive_link){:target="_blank" }
+   - **Cut-Out : enregistrement image par image de personnages découpés dans du papier ou carton et animés par des jointures)** : 
+      - [Le Hérisson dans le Brouillard (René Laloux, 1975)](https://drive.google.com/file/d/1UJeA4Vh0z6b4JEpd9CQzSNFgOKZ-YODc/view?usp=drive_link){:target="_blank" } 
+      - [Les Trois Inventeurs (Michel Ocelot, 1980)](https://drive.google.com/file/d/1E2fgovQtCDVqeuSEvB0VhzZaiwPvYZ4T/view?usp=drive_link){:target="_blank" }
+
+{: .gris2-title }
+> - **Hybride (utilisant différents supports)** : 
+>> - [Harpya (Raoul Servais, 1979)](https://drive.google.com/file/d/1dz_1Z2XDFcqp-IyTbZyHAiOdk7lboGXm/view?usp=drive_link){:target="_blank" } 
+>> - [Food (Jan Svankmajer, 1992)](https://drive.google.com/file/d/1VPhm_QvxU7j-zqnGrQ4U7rSp1OYBpSkw/view?usp=drive_link){:target="_blank" } 
+>> - [When the day breaks (Amanda Forbis et Wendy Tilby, 1999)](https://drive.google.com/file/d/1ZIo11p-cqhMwbYxduxm4yMWff6v5GB2V/view?usp=drive_link){:target="_blank" }
+
+{: .gris2-title }
+> - **Animation 3D (animation par ordinateur)** : 
+>> - [Le joueur d'échecs (Jan Pinkava, studios Pixar, 1997)](https://drive.google.com/file/d/1kCb1Ctn6O4Q3Ip4G0piLSoIvAGvjMtW3/view?usp=drive_link){:target="_blank" }
+
+{: .note-title }
+> - [Lien vers l'ensemble des fichiers vidéo](https://drive.google.com/drive/folders/1GBUR4-DBRZIa2Ygq1_JVAjh3RmcoDEo5?usp=drive_link){:target="_blank" }

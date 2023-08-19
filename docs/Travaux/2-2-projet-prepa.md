@@ -4,7 +4,7 @@ title: Préparation du projet
 parent: Projet annuel
 grand_parent: Travaux
 nav_order: 2
-published: true
+published: false
 ---
 ## Préparation du projet : remplir une fiche
 

@@ -8,6 +8,8 @@ nav_order: 3
 published: true
 ---
 ## Ecrire son synopsis
-Le synospis est un texte qui résume l'intrigue du film, le déroulement de votre histoire. 
 
-→ Voir la fiche n°6 sur le synopsis dans le dossier "l'écriture d'un film"
+{: .highlight }
+> Le synospis est un texte qui résume l'intrigue du film, le déroulement de votre histoire. 
+>
+>> → **Voir la fiche n°6 sur le synopsis dans le dossier "l'écriture d'un film"**

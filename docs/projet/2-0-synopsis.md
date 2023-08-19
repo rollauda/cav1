@@ -7,4 +7,6 @@ nav_order: 2
 published: false
 ---
 ## Le synopsis
-Le synopsis est un résumé détaillé du film. Il faut au préalable caractériser les personnages et élaborer la structure narrative (la construction de votre histoire, de son intrigue).
+
+{: .highlight }
+>Le synopsis est un résumé détaillé du film. Il faut au préalable caractériser les personnages et élaborer la structure narrative (la construction de votre histoire, de son intrigue).
