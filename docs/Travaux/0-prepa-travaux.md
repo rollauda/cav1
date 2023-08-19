@@ -66,3 +66,9 @@ Barème /5:
 
 - Travail prépartoire en groupe à faire en classe : préparer le brouillon de la note d'intention qu'il faudra rendre et qui sera évaluée. Suivre la structure donnée dans la fiche n°7 du dossier "L'écriture d'un film".
 - Faire ensuite au propre la note d'intention et la rendre
+
+## Point de vue : analyse d'une séquence de Mrs Muir
+
+## TP n°1 : réaliser un champ-contrechamp
+
+## TP n°2 : Varier les points de vue

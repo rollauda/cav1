@@ -1,6 +1,6 @@
 - Présentation
 
-- Introduction :  : Le court-métrage au cinéma
+- **Introduction :  : Le court-métrage au cinéma**
     - Courts-métrages documentaires
     - Courts-métrages de fiction
     - Courts-métrages d'animation
@@ -8,19 +8,29 @@
     - Clips, pubs, mashups, etc.
         - Travail évalué ? Première analyse d'extrait ?
 
-- Leçon 1 : Comment analyser une séquence ?
-    - Axer sur le point de vue
-    - plus d'extraits, ajouter plan séquence Scorsese, La féline, Spielberg camion, etc.
-    - Première évaluation, en binôme ?
-          - docs et vidéos pour illustrer chaque élément d'analyse
+- **Leçon 1 : Comment analyser une séquence de film ?**
+1. Dossier : L'analyse filmique
+     - TP n°1 : réaliser un champ-contrechamp
+2. Premier exemple : Frankenstein
+3. Le point de vue
+4. Second exemple : Jaws
+     - TP n°2 : Varier les points de vue
+     - Evaluation Mrs Muir
 
-- Leçon 2 : Les studios
+**FILM COMPLET N° 1 ?**
 
-- Leçon 3 : L'auteur au cinéma
+- **Leçon 2 : L'auteur au cinéma face aux studios**
+     → Faire une seule leçon : l'auteur au cinéma + les studios
 
-- Leçon 4 : la science-fiction
+**FILM COMPLET N° 2 ?**
 
-- Leçon 5 : le son au cinéma
+- **Leçon 3 : Un genre cinématographique : la science-fiction**
+
+**FILM COMPLET N° 3 ?**
+
+- **Leçon 4 : le son au cinéma**
+
+**FILM COMPLET N° 4 ?**
 
 
 - Projet final : résumé, tableau des groupes
