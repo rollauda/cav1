@@ -25,4 +25,4 @@ published: true
 >>3. Caractéristiques de votre court-métrage (documentaire, ou fiction, etc., prises de vue rélles ou animation, etc.) 
 
 {: .important-title }
-> - **→ Utilisez les fiches n°1 etn°2 du dossier "L'écriture d'un film"**
+> - **→ Utilisez les fiches n°1 et n°2 du dossier "L'écriture d'un film"**

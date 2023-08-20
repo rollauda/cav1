@@ -72,3 +72,6 @@ Barème /5:
 ## TP n°1 : réaliser un champ-contrechamp
 
 ## TP n°2 : Varier les points de vue
+
+## Jaws (1975)
+→ Activité de groupe évaluée : Présenter le film "Les dents de la mer" et analyser la séquence de la seconde attaque du requin
