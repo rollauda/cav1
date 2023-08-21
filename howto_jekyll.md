@@ -5,12 +5,6 @@
 https://runebook.dev/fr/docs/jekyll/
 
 ```
-cd /Users/rollandauda/Github/rollauda.github.io
-
-cd /Users/rollandauda/Github/philotg
-
-cd /Users/rollandauda/Github/hlpt
-
 cd /Users/rollandauda/Github/cav1
 ```
 
