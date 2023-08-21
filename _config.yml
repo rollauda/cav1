@@ -58,15 +58,21 @@ callouts:
   important:
     title: Important
     color: blue
-  new:
-    title: New
+  nouveau:
+    title: Nouveau
     color: green
   note:
     title: Note
     color: purple
-  warning:
+  attention:
     title: Warning
     color: red
+  gris:
+    title: gris
+    color: grey-lt 
+  gris2:
+    title: gris
+    color: grey-dk
 
 mermaid:
   # Version of mermaid library
