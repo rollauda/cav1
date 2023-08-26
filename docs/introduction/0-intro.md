@@ -43,6 +43,6 @@ published: true
 >>- Le Western
 
 
-[Lien vers une frise sur l'histoire du court-métrage](https://upopi.ciclic.fr/apprendre/l-histoire-des-images/histoire-du-court-metrage-francais)
+[Lien vers une frise sur l'histoire du court-métrage](https://upopi.ciclic.fr/apprendre/l-histoire-des-images/histoire-du-court-metrage-francais){:target="_blank" }
 
 [Lien vers le diaporama "Qu'est-ce que le cinéma ?"](../../docs/ressources/diapo.html)
