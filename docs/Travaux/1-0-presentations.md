@@ -8,7 +8,6 @@ published: true
 has_toc: false
 ---
 ## Présentation de films
-
 {: .no_toc }
 
 <details open markdown="block">
@@ -23,11 +22,11 @@ has_toc: false
 {: .highlight }
 > Vous présenterez à l'oral à tour de rôle un film de votre choix dans une liste imposée et en analyserez un extrait. Ci-dessous la liste des films et la grille de correction.
 
-### **Liste des films :**  
+### **Liste des films**  
 {% pdf "../../assets/pdf/travaux/parcours-cine.pdf" width=80% height=550px no_link %}
-### **Grille de présentation de film et d'évaluation :**  
+### **Grille de présentation de film et d'évaluation**  
 {% pdf "../../assets/pdf/travaux/grille-presentation-film.pdf" width=80% height=550px no_link %}
-### **Tabelau d'analyse de séquence :**  
+### **Tableau d'analyse de séquence**  
 {% pdf "../../assets/pdf/travaux/tableau-analyse-sequence.pdf" width=80% height=550px no_link %}
 
 

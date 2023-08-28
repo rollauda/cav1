@@ -8,7 +8,6 @@ nav_order: 2
 published: true
 ---
 ## La structure narrative
-
 {: .no_toc }
 
 <details open markdown="block">

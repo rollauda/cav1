@@ -8,7 +8,6 @@ nav_order: 2
 published: true
 ---
 ## 2 extrait de "Ecrire un scénario pour le cinéma" (Franck Haro)
-
 {: .no_toc }
 
 <details open markdown="block">

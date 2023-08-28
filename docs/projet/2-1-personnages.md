@@ -8,10 +8,10 @@ nav_order: 1
 published: true
 ---
 ## Les personnages
+{: .no_toc }
 
 (Extraits de Franck Haro, *Écrire un scénario pour le cinéma*)
 
-{: .no_toc }
 
 <details open markdown="block">
   <summary>

@@ -6,7 +6,7 @@ parent: Ressources
 has_children: false
 published: true
 ---
-
+## Liens
 {: .no_toc }
 
 <details open markdown="block">
@@ -18,7 +18,7 @@ published: true
 {:toc}
 </details>
 
-## 1. Techniques du cinéma 
+### 1. Techniques du cinéma 
 
 
 {: .highlight }
@@ -47,7 +47,7 @@ published: true
 > - [Raccord Faux-raccord](https://vimeo.com/99614664){:target="_blank" }  
 > - [Mouvements de caméra](https://vimeo.com/99613704){:target="_blank" }  
 
-## 2. Histoire du cinéma 
+### 2. Histoire du cinéma 
 
 {: .important-title }
 > - [Une chronologie du cinéma](https://www.tiki-toki.com/timeline/embed/138306/5243809804/#vars!date=1925-04-03_04:29:42!){:target="_blank" } 
@@ -64,17 +64,17 @@ published: true
 >> - [Play-list "face à l'histoire"](https://www.youtube.com/playlist?list=PLGgP-iwu9i_yRaSChVzYy9wFaB-t6D-Uq){:target="_blank" }
 >> - [Play-list "Recut"](https://www.youtube.com/playlist?list=PLGgP-iwu9i_wztABw29Zo-IrIJHFoFUqA){:target="_blank" }
 
-## 3. Analyse filmique
+### 3. Analyse filmique
 
 {: .nouveau-title }
 > - [Le cours sur l'analyse filmique d'UPOPI](https://upopi.ciclic.fr/vocabulaire/){:target="_blank" } 
 >
 > - [Des analyses de séquence (UPOPI)](https://upopi.ciclic.fr/analyser/le-cinema-la-loupe){:target="_blank" }
 
-## 4. Métiers du cinéma
+### 4. Métiers du cinéma
 
 {: .attention-title }
 > - [Les métiers du cinéma](https://vimeo.com/99629840){:target="_blank" } (voir la liste des vidéos à droite)
 >
-> - [Les métier du cinéma (UPOPI)](https://vimeo.com/showcase/3010116){:target="_blank" }
+> - [Les métiers du cinéma (UPOPI)](https://vimeo.com/showcase/3010116){:target="_blank" }
 

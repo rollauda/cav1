@@ -4,10 +4,9 @@ title: Le découpage technique
 parent: Projet final
 has_children: true
 nav_order: 6
-published: false
+published: true
 ---
 ## Faire le découpage technique
-
 {: .no_toc }
 
 <details open markdown="block">
@@ -18,6 +17,10 @@ published: false
 - TOC
 {:toc}
 </details>
+
+### Fiche sur le découpage technique
+
+{% pdf "../../assets/pdf/projet/decoupage/fiche-decoupage.pdf" width=80% height=650px no_link %}
 
 ### Modèle de découpage technique
 

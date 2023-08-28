@@ -6,7 +6,7 @@ has_children: true
 nav_order: 4
 published: false
 ---
-
+## Le scénario
 {: .no_toc }
 
 <details open markdown="block">
@@ -18,7 +18,7 @@ published: false
 {:toc}
 </details>
 
-## Ecrire son scénario
+### Ecrire son scénario
 
 {: .highlight }
 > Le scénario d'un film est aussi appelé "continuité dialoguée". 
@@ -29,7 +29,7 @@ published: false
 >
 >> **→ Voir la fiche n°8 sur le scénario dans le dossier "l'écriture d'un film"**
 
-## Documents
+### Documents
 
 {% pdf "../../assets/pdf/projet/scenario/codes-scenario.pdf" width=86% height=650px no_link %}
 
