@@ -9,8 +9,8 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 01/09  | [Présentation de l'année](../../docs/Présentation) | ...     | ...     |
-| 04/09   | ...     | ...     | ...     |
+| 01/09  |  | ...     | ...     |
+| 04/09   | [Présentation de l'année](../../docs/Présentation) <br> [Introduction](../../docs/introduction/0-intro.html)     | ...     | ...     |
 | 11/09   | ...     | ...     | ...     |
 | 18/09   | ...     | ...     | ...     |
 | 25/09   | ...     | ...     | ...     |
