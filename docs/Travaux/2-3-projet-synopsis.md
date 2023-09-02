@@ -16,3 +16,5 @@ published: false
 >>- 2 pts : logique de l'intrigue
 >>- 2 pts : clarté et précision du synopsis
 >>- 1 pt : grammaire et orthographe
+
+→ Voir dans le dossier "L'écriture d'un film" la fiche n°6 : Le synopsis
