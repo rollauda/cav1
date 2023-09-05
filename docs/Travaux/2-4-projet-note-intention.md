@@ -13,3 +13,5 @@ published: false
 
 {: .note-title }
 >- Faire ensuite au propre la note d'intention et la rendre.
+
+→ Voir dans le dossier "L'écriture d'un film" la fiche n°7 : La note d'intention
