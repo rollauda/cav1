@@ -27,7 +27,7 @@ published: false
 >
 >La continuité dialoguée (appelée couramment "scénario") intègre les dialogues, et découpe le film en séquences (il y a plusieurs séquences dans un scène). La séquence est définie par son unité de lieu et de temps (un changement de lieu ou de temps = une nouvelle séquence). Le scenario est descriptif, écrit au présent. Il donne les indications pour la mise en scène : interactions des personnages entre eux et dans le décor, monologues, dialogues, etc. Il ne donne pas accès aux pensées des personnages : leurs émotions et idées doivent être comprises par le lecteur à partir de leurs actions.
 >
->> **→ Voir la fiche n°8 sur le scénario dans le dossier "l'écriture d'un film"**
+>> **→ Voir la fiche n°8 sur le scénario dans le dossier [L'écriture d'un film](https://drive.google.com/file/d/13TnmShby5pcKB0J48UJxZbweAFKE-BUz/view?usp=drive_link)**
 
 ### Documents
 

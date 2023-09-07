@@ -21,4 +21,4 @@ Elle doit être personnelle et sincère. Elle peut laisser filtrer votre sensibi
 >
 >**Remarque** : l'épreuve du bac de Spécialité CAV en Terminale, on vous demandera de présenter la note d'intention de votre projet final.
 >
->> **→ Voir la fiche n°7 du dossier "L'écriture d'un film"**
+>> **→ Voir la fiche n°7 du dossier [L'écriture d'un film](https://drive.google.com/file/d/13TnmShby5pcKB0J48UJxZbweAFKE-BUz/view?usp=drive_link)**
