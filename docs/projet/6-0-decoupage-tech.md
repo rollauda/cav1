@@ -4,7 +4,7 @@ title: Le découpage technique
 parent: Projet final
 has_children: true
 nav_order: 6
-published: true
+published: false
 ---
 ## Faire le découpage technique
 {: .no_toc }
