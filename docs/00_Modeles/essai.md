@@ -7,6 +7,19 @@ permalink: /Modeles/essai
 published: false
 ---
 
+pour programmer la publication d'un post pour le 1er janvier 2023 à 12h00 UTC, vous pouvez ajouter les lignes suivantes au fichier Markdown du post :
+
+--
+title: My post
+scheduled_at: 2023-01-01T12:00:00Z
+--
+
+This is my post. It will be published on January 1, 2023, at 12:00 UTC.
+
+Notez que l'attribut scheduled_at doit être une date-heure au format ISO 8601. Le format ISO 8601 est un format universel pour représenter les dates et les heures. Il est composé de l'année, du mois, du jour, de l'heure, des minutes et des secondes.
+
+---
+
 ![image](../assets/img/schema_conscience.svg)
 
 # Tests
