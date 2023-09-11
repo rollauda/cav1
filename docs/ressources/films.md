@@ -44,4 +44,8 @@ published: true
 
 ### Autres
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/rEZtfQT0clw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1yDW-CDtoxoGe_Moyb7taaEPheL-vkuK5/preview" width="480" height="360" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1zbfb8Bw4nC9HEySZ4X_JlFnGNz8yR3QG/preview" width="480" height="360" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/13rQssLIvfsNQ1UQMN8xvlDccpLt6Jo67/preview" width="480" height="360" allow="autoplay"></iframe>
