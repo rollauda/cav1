@@ -24,4 +24,4 @@ published: true
 | 12/12 | Amelia Carrion | ... | ...  |
 | 19/12 | Leonardo Bravo | ... | ...  |
 | 09/01 | Dominique Ayala | ... | ...  |
-| 16/01 | Lyna Taazbit | ... | ...  |
+| 16/01 | Lyna Taazibt | ... | ...  |
