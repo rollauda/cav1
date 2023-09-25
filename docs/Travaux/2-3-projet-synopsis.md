@@ -4,17 +4,17 @@ title: Synopsis
 parent: Projet annuel
 grand_parent: Travaux
 nav_order: 3
-published: false
+published: true
 ---
 ## Écrire le synopsis
 
 {: .highlight }
->Exercice évalué /5 (note individuelle) : rédiger un synopsis de votre court-métrage.
+>Exercice évalué /10 (note individuelle) : rédiger un synopsis de votre court-métrage.
 >
->> **Barème /5 :**
+>> **Barème /10 :**
 >>
->>- 2 pts : logique de l'intrigue
->>- 2 pts : clarté et précision du synopsis
->>- 1 pt : grammaire et orthographe
+>>- 4 pts : logique de l'intrigue
+>>- 4 pts : clarté et précision du synopsis
+>>- 2 pt : grammaire et orthographe
 
 → Voir dans le dossier "L'écriture d'un film" la fiche n°6 : Le synopsis

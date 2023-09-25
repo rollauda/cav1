@@ -4,7 +4,7 @@ title: Le synopsis
 parent: Projet final
 has_children: true
 nav_order: 2
-published: false
+published: true
 ---
 ## Le synopsis
 
