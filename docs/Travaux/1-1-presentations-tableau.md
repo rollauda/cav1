@@ -18,7 +18,7 @@ published: true
 | 17/10 | Emilia Hidalgo | ... | ...  |
 | 07/11 | Thomas Hamilton | ... | ...  |
 | 14/11 | Brianna Estrella | ... | ...  |
-| 21/11 | Domenica Espinosa | ... | ...  |
+| 21/11 | Lyna Taazbit | ... | ...  |
 | 28/11 | Antonella Del Valle | ... | ...  |
 | 05/12 | Sara Clavijo | ... | ...  |
 | 12/12 | Amelia Carrion | ... | ...  |
