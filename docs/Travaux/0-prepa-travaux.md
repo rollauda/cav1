@@ -69,7 +69,10 @@ Barème /5:
 
 ## Point de vue : analyse d'une séquence de Mrs Muir
 
-## TP n°1 : réaliser un champ-contrechamp
+## TP n°1 : réaliser un champ-contrechamp (roman-photo)
+
+## TP n°1b : réaliser un champ-contrechamp (court-métrage)
+A faire à deux (1 acteur et 1 réalisateur) : filmer un champ contre-champ du même personnage. Inspiration : Le joueur d'échecs / extrait de "Les goûts et les couleurs" (2022)
 
 ## TP n°2 : Varier les points de vue
 
