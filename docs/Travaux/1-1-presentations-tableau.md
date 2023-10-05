@@ -12,7 +12,7 @@ published: true
 |:-------------|:-------------|:------------------|:------|
 | 12/09 | Bianca Verdu | Hiroshima mon amour | 9  |
 | 26/09 | Gabriel Valarezo | Memento | 7,5  |
-| 03/10 | Nicole Rubio | Frankenwinnie | 8  |
+| 03/10 | Nicole Rubio | Frankenwennie | 8  |
 | 10/10 | Ariana Trujillo | L'Exorciste | ...  |
 | 17/10 | Michelle Pinzon | ... | ...  |
 | 07/11 | Emilia Hidalgo | The Dictator | ...  |
