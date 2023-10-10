@@ -13,8 +13,8 @@ published: true
 | 12/09 | Bianca Verdu | Hiroshima mon amour | 9  |
 | 26/09 | Gabriel Valarezo | Memento | 7,5  |
 | 03/10 | Nicole Rubio | Frankenwennie | 8  |
-| 10/10 | Ariana Trujillo | L'Exorciste | ...  |
-| 17/10 | Michelle Pinzon | ... | ...  |
+| 10/10 | Ariana Trujillo | L'Exorciste | 5,5  |
+| 17/10 | Michelle Pinzon | Shutter Island | ...  |
 | 07/11 | Emilia Hidalgo | The Dictator | ...  |
 | 14/11 | Thomas Hamilton | ... | ...  |
 | 21/11 | Brianna Estrella | ... | ...  |
