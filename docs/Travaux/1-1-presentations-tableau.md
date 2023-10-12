@@ -21,6 +21,6 @@ published: true
 | 28/11 | Antonella Del Valle | Kill Bill Volume 1 | ...  |
 | 05/12 | Sara Clavijo | Mulholland Drive | ...  |
 | 12/12 | Amelia Carrion | ... | ...  |
-| 19/12 | Leonardo Bravo | Le Mépris | ...  |
+| 19/12 | Leonardo Bravo | La chinoise | ...  |
 | 09/01 | Dominique Ayala | ... | ...  |
 | 16/01 | Lyna Taazibt | ... | ...  |
