@@ -9,12 +9,17 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 01/09  |  | ...     | ...     |
-| 04/09   | - [Présentation de l'année](../../docs/Présentation) <br> - [Introduction](../../docs/introduction/0-intro.html) 1.    | ...     | ...     |
-| 11/09   | - [Introduction](../../docs/introduction/0-intro.html) 2. et 3.  <br> - [Projet final : formation des groupes](../../docs/projet/1-pitch.html) | Être auteur  | [Pitch du court-métrage](../../docs/Travaux/2-1-projet-pitch.html) <br> [Fiche projet](../../docs/Travaux/2-2-projet-prepa.html)     |
-| 18/09   | - [Projet final : travail sur les pitchs](../../docs/projet/1-pitch.html) <br> - Présentation du festival Eurocine   | Être auteur     | ...     |
-| 25/09   | - [Introduction](../../docs/introduction/0-intro.html) 3. à 5. <br> - [Projet final : travail sur les synopsis](../../docs/projet/2-0-synopsis.html)     | Être auteur     | Étudier les fiches n°1, 2 et 3 <br> du [dossier "L'analyse filmique"](../../docs/Leçon%201/L1-1-0.html)     |
-| 02/10   | - [Leçon 1](../../docs/Leçon%201/L1-0.html) : éléments d'analyse + Exemple n°1 : Frankenstein (1931) <br> - Présentation du festival EDOC   | Être auteur     | [Analyse de sequence: Jaws](../../docs/Travaux/7-0.html) |
-| 09/10   | - [Leçon 1](../../docs/Leçon%201/L1-0.html) : Exemple n°2 : Jaws (1975) <br> - [Projet final : travail sur les synopsis](../../docs/projet/2-0-synopsis.html)      | Être auteur      | [Écrire le synopsis du court-métrage](../../docs/Travaux/2-3-projet-synopsis.html)     |
+|  06/11  |  Leçon 2 | ... | ... |
+| Vacances d'automne | ---------  | ---------  | [Analyse de séquence Mrs Muir](../../docs/Travaux/3-0.html)     |
 | 16/10   | [Leçon 1](../../docs/Leçon%201/L1-0.html) : le point de vue     | ...     | ...     |
-| Vacances d'automne | ...  | ...  | ...     |
+| 09/10   | - [Leçon 1](../../docs/Leçon%201/L1-0.html) : Exemple n°2 : Jaws (1975) <br> - [Projet final : travail sur les synopsis](../../docs/projet/2-0-synopsis.html)      | Être auteur      | [Écrire le synopsis du court-métrage](../../docs/Travaux/2-3-projet-synopsis.html)     |
+| 02/10   | - [Leçon 1](../../docs/Leçon%201/L1-0.html) : éléments d'analyse + Exemple n°1 : Frankenstein (1931) <br> - Présentation du festival EDOC   | Être auteur     | [Analyse de sequence: Jaws](../../docs/Travaux/7-0.html) |
+| 25/09   | - [Introduction](../../docs/introduction/0-intro.html) 3. à 5. <br> - [Projet final : travail sur les synopsis](../../docs/projet/2-0-synopsis.html)     | Être auteur     | Étudier les fiches n°1, 2 et 3 <br> du [dossier "L'analyse filmique"](../../docs/Leçon%201/L1-1-0.html)     |
+| 18/09   | - [Projet final : travail sur les pitchs](../../docs/projet/1-pitch.html) <br> - Présentation du festival Eurocine   | Être auteur     | ...     |
+| 11/09   | - [Introduction](../../docs/introduction/0-intro.html) 2. et 3.  <br> - [Projet final : formation des groupes](../../docs/projet/1-pitch.html) | Être auteur  | [Pitch du court-métrage](../../docs/Travaux/2-1-projet-pitch.html) <br> [Fiche projet](../../docs/Travaux/2-2-projet-prepa.html)     |
+| 04/09   | - [Présentation de l'année](../../docs/Présentation) <br> - [Introduction](../../docs/introduction/0-intro.html) 1.    | ...     | ...     |
+
+
+
+
+
