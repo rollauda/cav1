@@ -12,25 +12,25 @@
 1. Dossier : L'analyse filmique
      - TP n°1 : réaliser un champ-contrechamp
 2. Premier exemple : Frankenstein
-3. Le point de vue
-4. Second exemple : Jaws
+3. Second exemple : Jaws
      - TP n°2 : Varier les points de vue
      - Evaluation Mrs Muir
+4. Le point de vue
 
-**FILM COMPLET N° 1 ?**
+**FILM COMPLET N° 1 ? Farheneit ?**
 
-- **Leçon 2 : L'auteur au cinéma face aux studios**
+- **Leçon 2 : L'auteur de cinéma face aux studios de production**
      → Faire une seule leçon : l'auteur au cinéma + les studios
 
-**FILM COMPLET N° 2 ?**
+**FILM COMPLET N° 2 ? King Kong ? L'homme qui rétrécit ?**
 
 - **Leçon 3 : Un genre cinématographique : la science-fiction**
 
-**FILM COMPLET N° 3 ?**
+**FILM COMPLET N° 3 ? Alien ?**
 
 - **Leçon 4 : le son au cinéma**
 
-**FILM COMPLET N° 4 ?**
+**FILM COMPLET N° 4 ? Mon oncle ?**
 
 
 - Projet final : résumé, tableau des groupes
