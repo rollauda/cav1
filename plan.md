@@ -22,9 +22,11 @@
 - **Leçon 2 : L'auteur de cinéma face aux studios de production**
      → Faire une seule leçon : l'auteur au cinéma + les studios
 
-**FILM COMPLET N° 2 ? King Kong ? L'homme qui rétrécit ?**
+**FILM COMPLET N° 2 ? King Kong ? L'homme qui rétrécit ? Sunset Boulevard ?**
 
 - **Leçon 3 : Un genre cinématographique : la science-fiction**
+
+En intro, voir la playslist de docs en anglais sous-titré fr : https://www.youtube.com/watch?v=uavggssb_rM&list=PLRtzd5eoxQ14Xcc3SmHgYFaqPfcpn_kn9 
 
 **FILM COMPLET N° 3 ? Alien ?**
 
