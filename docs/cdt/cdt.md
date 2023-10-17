@@ -11,7 +11,7 @@ published: true
 | :------------------- | :-------------- | :-------- | :-------- |
 |  06/11  |  [Leçon 2](../../docs/Leçon%202/L2-0.html) | Être auteur + Les studios | ... |
 | Vacances d'automne | ---------  | ---------  | [Analyse de séquence Mrs Muir](../../docs/Travaux/3-0.html)     |
-| 16/10   | [Leçon 1](../../docs/Leçon%201/L1-0.html) : le point de vue     | ...     | ...     |
+| 16/10   | [Leçon 1](../../docs/Leçon%201/L1-0.html) : le point de vue     | ...     | [TP varier les points de vue](../../docs/Travaux/5-0.html)     |
 | 09/10   | - [Leçon 1](../../docs/Leçon%201/L1-0.html) : Exemple n°2 : Jaws (1975) <br> - [Projet final : travail sur les synopsis](../../docs/projet/2-0-synopsis.html)      | Être auteur      | [Écrire le synopsis du court-métrage](../../docs/Travaux/2-3-projet-synopsis.html)     |
 | 02/10   | - [Leçon 1](../../docs/Leçon%201/L1-0.html) : éléments d'analyse + Exemple n°1 : Frankenstein (1931) <br> - Présentation du festival EDOC   | Être auteur     | [Analyse de sequence: Jaws](../../docs/Travaux/7-0.html) |
 | 25/09   | - [Introduction](../../docs/introduction/0-intro.html) 3. <br> - [Projet final : travail sur les synopsis](../../docs/projet/2-0-synopsis.html)     | Être auteur     | Étudier les fiches n°1, 2 et 3 du [dossier "L'analyse filmique"](../../docs/Leçon%201/L1-1-0.html)     |
