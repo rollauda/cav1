@@ -14,9 +14,9 @@ published: true
 | 26/09 | Gabriel Valarezo | Memento | 7,5  |
 | 03/10 | Nicole Rubio | Frankenwennie | 8  |
 | 10/10 | Ariana Trujillo | L'Exorciste | 5,5  |
-| 17/10 | Michelle Pinzon | Shutter Island | ...  |
+| 17/10 | Michelle Pinzon | Shutter Island | 9,5  |
 | 07/11 | Emilia Hidalgo | The Dictator | ...  |
-| 14/11 | Thomas Hamilton | ... | ...  |
+| 14/11 | Thomas Hamilton | Lawrence d'Arabie | ...  |
 | 21/11 | Brianna Estrella | ... | ...  |
 | 28/11 | Antonella Del Valle | Kill Bill Volume 1 | ...  |
 | 05/12 | Sara Clavijo | Mulholland Drive | ...  |
