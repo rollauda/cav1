@@ -9,7 +9,7 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 27/11   | - [Leçon 2 : L’auteur de cinéma face aux studios de production](../../docs/Leçon%202/L2-0.html) <br> - Bac blanc 2H : question de réflexion sur sunset Boulevard | Être auteur + Les studios     | ...     |
+| 27/11   | - [Leçon 2 : L’auteur de cinéma face aux studios de production](../../docs/Leçon%202/L2-0.html) <br> - Bac blanc 2H : analyse de séquence (Sunset Boulevard) | Être auteur + Les studios     | ...     |
 | 20/11   | - [Leçon 2 : L’auteur de cinéma face aux studios de production](../../docs/Leçon%202/L2-0.html)  | Être auteur + Les studios     | ...     |
 | 13/11   | - [Leçon 2 : L’auteur de cinéma face aux studios de production](../../docs/Leçon%202/L2-0.html)  | Être auteur + Les studios     | ...     |
 | 06/11  | - [Leçon 1 : TP varier les points de vue, étape n°2 (tournage)](../../docs/Travaux/5-0.html) <br> - [Projet final : travail sur les synopsis, récriture collective en groupes](../../docs/projet/2-0-synopsis.html) | Être auteur + Les studios | [TP varier les points de vue (suite)](../../docs/Travaux/5-0.html) |
