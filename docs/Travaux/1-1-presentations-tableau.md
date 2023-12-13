@@ -15,12 +15,12 @@ published: true
 | 03/10 | Nicole Rubio | Frankenwennie | 8  |
 | 10/10 | Ariana Trujillo | L'Exorciste | 5,5  |
 | 17/10 | Michelle Pinzon | Shutter Island | 9,5  |
-| 07/11 | Emilia Hidalgo | The Dictator | ...  |
-| 14/11 | Thomas Hamilton | Lawrence d'Arabie | ...  |
-| 21/11 | Brianna Estrella | ... | ...  |
-| 28/11 | Antonella Del Valle | Kill Bill Volume 1 | ...  |
-| 05/12 | Sara Clavijo | Mulholland Drive | ...  |
-| 12/12 | Amelia Carrion | ... | ...  |
-| 19/12 | Leonardo Bravo | La chinoise | ...  |
-| 09/01 | Dominique Ayala | ... | ...  |
-| 16/01 | Lyna Taazibt | ... | ...  |
+| 07/11 | Emilia Hidalgo | The Dictator | 7  |
+| 14/11 | Thomas Hamilton | Lawrence d'Arabie | 8  |
+| 21/11 | Brianna Estrella | Le Pigeon | 6,75  |
+| 28/11 | Antonella Del Valle | Kill Bill Volume 1 | 6,5  |
+| 05/12 | Sara Clavijo | Mulholland Drive | 9  |
+| 12/12 | Amelia Carrion | Sleepy Hollow | ...  |
+| 09/01 | Leonardo Bravo | La chinoise | ...  |
+| 23/01 | Dominique Ayala | ... | ...  |
+| 30/01 | Lyna Taazibt | ... | ...  |
