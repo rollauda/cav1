@@ -9,7 +9,7 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 18/12   | - [Projet final : travail sur la note d'intention](../../docs/projet/3-0-note-intention.html) | Être auteur    | [Écrire la note d'intention pour la rentrée](../../docs/Travaux/2-4-projet-note-intention.html)     |
+| 18/12   | - [Projet final : travail sur la note d'intention](../../docs/projet/3-0-note-intention.html) | Être auteur | [Écrire la note d'intention pour la rentrée](../../docs/Travaux/2-4-projet-note-intention.html)     |
 | 11/12   | - [TP évalué : créer un champ-contrechamp en roman-photo](../../docs/Travaux/4-0.html) <br> | Être auteur    | ...     |
 | 04/12   | - [Leçon 2 : L’auteur de cinéma face aux studios de production](../../docs/Leçon%202/L2-0.html) <br> - Bac blanc 2H : analyse de séquence (Sunset Boulevard) | Être auteur + Les studios     | ...     |
 | 27/11   | - [Leçon 2 : L’auteur de cinéma face aux studios de production](../../docs/Leçon%202/L2-0.html) <br> | Être auteur + Les studios     | ...     |
