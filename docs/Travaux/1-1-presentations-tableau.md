@@ -20,7 +20,7 @@ published: true
 | 21/11 | Brianna Estrella | Le Pigeon | 6,75  |
 | 28/11 | Antonella Del Valle | Kill Bill Volume 1 | 6,5  |
 | 05/12 | Sara Clavijo | Mulholland Drive | 9  |
-| 12/12 | Amelia Carrion | Sleepy Hollow | ...  |
+| 12/12 | Amelia Carrion | Sleepy Hollow | 8,5  |
 | 09/01 | Leonardo Bravo | Birdman | ...  |
 | 23/01 | Dominique Ayala | ... | ...  |
 | 30/01 | Lyna Taazibt | ... | ...  |
