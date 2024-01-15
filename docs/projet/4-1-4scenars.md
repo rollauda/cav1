@@ -9,8 +9,6 @@ published: true
 ---
 ## 4 exemples de scénarios
 
-**METTRE LES LIENS**
-
 - [Nuisible](https://drive.google.com/file/d/1EE9uKI1jfi1wafgOT8Qvo1abaXgZr2Xt/view?usp=drive_link){:target="_blank" }
 - [Bach-Hông](https://drive.google.com/file/d/1DK0Kj5fAp1vJfIOjBWTNcbyLb5wV69ZL/view?usp=drive_link){:target="_blank" }
 - [Junior](https://drive.google.com/file/d/1Bg5Wj9329P8YBYZdvzHJEr7931Y6r_UW/view?usp=drive_link){:target="_blank" }

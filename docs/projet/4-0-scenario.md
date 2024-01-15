@@ -4,7 +4,7 @@ title: Le scénario
 parent: Projet final
 has_children: true
 nav_order: 4
-published: false
+published: true
 ---
 ## Le scénario
 {: .no_toc }

@@ -4,7 +4,7 @@ title: Le story-board
 parent: Projet final
 has_children: true
 nav_order: 5
-published: false
+published: true
 ---
 ## Concevoir son story-board
 
