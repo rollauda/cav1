@@ -9,7 +9,7 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 29/01   | - [Projet final : finalisation du scénario](../../docs/projet/4-0-scenario.html)  | Être auteur     | ...     |
+| 29/01   | - [Projet final : finalisation du scénario](../../docs/projet/4-0-scenario.html) <br> - [Projets divers : berf.](../../docs/projets/1-bref.html) | Être auteur     | ...     |
 | 22/01   | - [Projet final : finalisation de la note d'intention](../../docs/projet/3-0-note-intention.html) <br> - [Projet final : écriture du scénario](../../docs/projet/4-0-scenario.html)  | Être auteur     | ...     |
 | 15/01   | Professeur absent  | ...     | ...     |
 | 08/01   | Professeur absent  | ...     | ...     |
