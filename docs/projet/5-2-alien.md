@@ -7,7 +7,13 @@ grand_parent: Projet final
 nav_order: 1
 published: true
 ---
-## Comparaison du story-board et de la séquence d'ouvertre d'Alien (R. Scott, 1979)
+# Story-board d'Alien (R. Scott, 1979)
+
+<iframe src="https://drive.google.com/file/d/1ezZKfQ9CP3wCIndSPM3ai-r-acHtMAdv/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1fO26NLXBuO00Zd5O8jfSBUdKq1OqOjXR/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Comparaison du story-board et de la séquence d'ouvertre d'Alien 
 
 ### La séquence d'ouverture
 
