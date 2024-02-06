@@ -9,7 +9,7 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
-| 12/02   | - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) | Être auteur + Une technique dans son histoire  | ...     |
+| 12/02   | - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) | Une technique dans son histoire  | ...     |
 | 05/02   | - [Projet final : Storyboard](../../docs/projet/4-0-scenario.html) <br> - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) | Être auteur + Une technique dans son histoire  | ...     |
 | 29/01   | - [Projet final : finalisation du scénario](../../docs/projet/4-0-scenario.html) <br> - [Projets divers : bref.](../../docs/projets/1-bref.html) | Être auteur     | ...     |
 | 22/01   | - [Projet final : finalisation de la note d'intention](../../docs/projet/3-0-note-intention.html) <br> - [Projet final : écriture du scénario](../../docs/projet/4-0-scenario.html)  | Être auteur     | ...     |
