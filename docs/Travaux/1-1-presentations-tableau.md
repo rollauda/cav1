@@ -22,5 +22,5 @@ published: true
 | 05/12 | Sara Clavijo | Mulholland Drive | 9  |
 | 12/12 | Amelia Carrion | Sleepy Hollow | 8,5  |
 | 30/01 | Leonardo Bravo | Birdman | ...  |
-| 06/02 | Dominique Ayala | ... | ...  |
+| 06/02 | Dominique Ayala |The Joker | ...  |
 | 14/02 | Lyna Taazibt | ... | ...  |
