@@ -9,6 +9,10 @@ published: true
 
 | Semaine     | Contenu     |  Axe | Travaux |
 | :------------------- | :-------------- | :-------- | :-------- |
+| 18/03  |  - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) <br> - [Projet final : Découpage technique](../../docs/projet/6-0-decoupage-tech.html) | Être auteur + Une technique dans son histoire  | ...     |
+| 11/03 | - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) <br> - Bac blanc | Une technique dans son histoire  | ...  |
+| 04/03  | - [Projet final : Découpage technique](../../docs/projet/6-0-decoupage-tech.html) <br> - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) | Être auteur + Une technique dans son histoire  | ...     |
+| Vacances d'hiver | ---------  | ---------  | ---------  |
 | 12/02   | - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) | Une technique dans son histoire  | ...     |
 | 05/02   | - [Projet final : Storyboard](../../docs/projet/4-0-scenario.html) <br> - [Leçon 3 : Le son au cinéma](../../docs/Leçon%203/L3-0.html) | Être auteur + Une technique dans son histoire  | ...     |
 | 29/01   | - [Projet final : finalisation du scénario](../../docs/projet/4-0-scenario.html) <br> - [Projets divers : bref.](../../docs/projets/1-bref.html) | Être auteur     | ...     |
