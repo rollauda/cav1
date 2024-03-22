@@ -7,4 +7,4 @@ grand_parent: Projet final
 nav_order: 2
 published: true
 ---
-## Le plan de montage
+## Le plan de travail
