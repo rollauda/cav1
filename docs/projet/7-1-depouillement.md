@@ -8,5 +8,21 @@ nav_order: 1
 published: true
 ---
 ## Le dépouillement
+{: .no_toc }
 
-`pj exemple dépouillement`
+<details open markdown="block">
+  <summary>
+    Sommaire
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+### Exemple
+
+<iframe src="https://drive.google.com/file/d/1_gET48B40nRQF_Vzup2ZMAb1pjy9zFU2/preview" width="640" height="480" allow="autoplay"></iframe>
+
+### Modèle
+
+<iframe src="https://drive.google.com/file/d/1_depBXXAs9N1iy4vF9r390nRyhvxhZnZ/preview" width="640" height="480" allow="autoplay"></iframe>
